@@ -1,7 +1,7 @@
 # SMRF
 Finds possible silent mutations to add a restriction site to a primer or DNA region
 
-Download the setup file and run it. You can run it as administrator or a regular user (in case of a college computer for example).
+Download the setup file [here](https://github.com/Tamer-ElSayed/SMRF/releases/download/untagged-77a7ee2365b76041843f/SMRF_Setup.exe) and run it. You can run it as administrator or a regular user (in case of a college computer for example).
 The password when prompted is SMRF123 (capital is important)
 
 ## Restriction sites avaialable in search:
