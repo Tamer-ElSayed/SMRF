@@ -1,13 +1,13 @@
 
 
 ## Finds possible silent mutations for introducing a restriction site in a primer or DNA region.
-Download the setup file [here](https://github.com/Tamer-ElSayed/SMRF/releases/download/v2.0/SMRF.2.0.Setup.exe) and run it. You can run it as administrator or a regular user (in case of a college computer for example).
+Download the setup file [here](https://github.com/Tamer-ElSayed/SMRF/releases/download/v2.0/SMRF.2.0.Setup.exe) and run it.
 The password when prompted is SMRF123 (capital is important)
 
 ## Restriction sites avaialable in search:
-BamHI, BglII, EcoRI, HindIII, Kpn I, Not I, Sall, TaqI, XhoI, BcnI, BcnI, BstNI, BstNI, Eco321, HindfI, HindfI, HindfI, HindfI, NdeI, PstI, SmaI, XbaI
-If you would like to add specific restriction sites available in your lab, you can send me on my mail at the bottom.
+This version now allows for you to create your own enzyme list tailored for your lab.
 
+There is also the default enzyme package with 1699 Restriction enzymes that you can use.
 
 
 ## License
