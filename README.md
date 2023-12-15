@@ -2,7 +2,7 @@
 
 ## Finds possible silent mutations for introducing a restriction site in a primer or DNA region.
 __Its function is to add a silent restriction site to a mutagenesis primer so that you can check for the success of a mutagenesis PCR reaction with a test digest.__
-Download the latest setup file [here](https://github.com/Tamer-ElSayed/SMRF/releases/download/v2.1/SMRF.2.1.Setup.exe) and run it. And to view the github page with the source code of the program click [here](https://github.com/Tamer-ElSayed/SMRF)
+Download the latest setup file [here](https://github.com/Tamer-ElSayed/SMRF/releases/download/v2.1/SMRF.2.1.Setup.exe) and run it. And to view the github page with the source code of the program click [here](https://github.com/Tamer-ElSayed/SMRF).
 
 ## Restriction sites avaialable in search:
 This version now allows for you to create your own enzyme list tailored for your lab.
